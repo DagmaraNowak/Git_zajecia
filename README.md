@@ -4,4 +4,4 @@
 # zmiana numer 4 w atomie
 # bez spacji
 
-![Image of Waldocat] (https://octodex.github.com/wheres-waldocat)
+![Image of Waldocat](https://octodex.github.com/images/waldocat.png)
